@@ -19,24 +19,32 @@ talk at MIT–Chile Human-Centered AI & Visualization Research Workshop, in-pers
 - https://processing.org/
 - https://ml5js.org/
 - https://runwayml.com/
+- https://www.tensorflow.org/lite/microcontrollers
 - https://wekinator.org/
 
 ### artists
 
+- https://www.matamala.info/
 - https://decontextualize.com/
 - https://andreasrefsgaard.dk/
+- https://cassietarakajian.com/
+- https://cvalenzuelab.com/
+- http://error404.cl/
 - https://corbinordel.com/
 - https://genekogan.com/
-- https://www.golanlevin.com/
+- https://golanlevin.com/
 - https://karinahy.com/
 - https://kaaathy.com/
 - https://kylemcdonald.net/
 - https://lauren-mccarthy.com/
+- https://mayaontheinter.net/
+- http://www.nataliacabrera.com/
 - https://nushinyazdani.com/
 - https://rodrigocadiz.com/
 - https://roymacdonald.github.io/
 - https://lav.io/
-- https://www.sofialuisa.xyz/
+- https://sergiomoradiaz.com/
+- https://sofialuisa.xyz/
 - https://zach.li/
 
 ### organizations
@@ -47,4 +55,5 @@ talk at MIT–Chile Human-Centered AI & Visualization Research Workshop, in-pers
 - https://www.media.mit.edu/groups/future-sketches/
 - https://www.media.mit.edu/groups/opera-of-the-future/
 - https://www.media.mit.edu/groups/personal-robots/
+- http://sfpc.study/
 - https://weavingxcoding.studio/
