@@ -8,31 +8,22 @@ talk at MIT–Chile Human-Centered AI & Visualization Research Workshop, in-pers
 
 ### myself
 
-- [https://montoyamoraga.io/](https://montoyamoraga.io/)
-- [https://bandurria.bandcamp.com/](https://bandurria.bandcamp.com/)
-- [https://piruetas.xyz/](https://piruetas.xyz/)
+- https://montoyamoraga.io/
+- https://bandurria.bandcamp.com/
+- https://piruetas.xyz/
 
 ### tools
 
-- [https://p5js.org/](https://p5js.org/)
-- [https://processing.org/](https://processing.org/)
-- [https://ml5js.org/](https://ml5js.org/)
-- [https://runwayml.com/](https://runwayml.com/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- https://p5js.org/
+- https://processing.org/
+- https://ml5js.org/
+- https://runwayml.com/
 
 ### artists
 
-- [https://rodrigocadiz.com/](https://rodrigocadiz.com/)
+- https://rodrigocadiz.com/
 - https://corbinordel.com/
 
 ### organizations
 
-- []()
+- https://www.media.mit.edu/
