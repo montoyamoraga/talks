@@ -9,6 +9,7 @@ talk at MIT–Chile Human-Centered AI & Visualization Research Workshop, in-pers
 ### myself
 
 - https://montoyamoraga.io/
+- https://github.com/montoyamoraga/
 - https://bandurria.bandcamp.com/
 - https://piruetas.xyz/
 
@@ -18,12 +19,32 @@ talk at MIT–Chile Human-Centered AI & Visualization Research Workshop, in-pers
 - https://processing.org/
 - https://ml5js.org/
 - https://runwayml.com/
+- https://wekinator.org/
 
 ### artists
 
-- https://rodrigocadiz.com/
+- https://decontextualize.com/
+- https://andreasrefsgaard.dk/
 - https://corbinordel.com/
+- https://genekogan.com/
+- https://www.golanlevin.com/
+- https://karinahy.com/
+- https://kaaathy.com/
+- https://kylemcdonald.net/
+- https://lauren-mccarthy.com/
+- https://nushinyazdani.com/
+- https://rodrigocadiz.com/
+- https://roymacdonald.github.io/
+- https://lav.io/
+- https://www.sofialuisa.xyz/
+- https://zach.li/
 
 ### organizations
 
+- https://tisch.nyu.edu/itp
 - https://www.media.mit.edu/
+- https://www.schoolofma.org/
+- https://www.media.mit.edu/groups/future-sketches/
+- https://www.media.mit.edu/groups/opera-of-the-future/
+- https://www.media.mit.edu/groups/personal-robots/
+- https://weavingxcoding.studio/
