@@ -28,6 +28,7 @@ talk at MIT–Chile Human-Centered AI & Visualization Research Workshop, in-pers
 - https://decontextualize.com/
 - https://andreasrefsgaard.dk/
 - https://cassietarakajian.com/
+- https://www.ciat-lonbarde.net/
 - https://cvalenzuelab.com/
 - http://error404.cl/
 - https://corbinordel.com/
